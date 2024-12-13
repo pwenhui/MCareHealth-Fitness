@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">M.care Health and Fitness Mobile Application</string>
+    <string name="logo_desc">M.care logo</string>
+    <string name="custom_outlined_text_field_error_msg_default">Required Field!</string>
+    <string name="email_field">Email</string>
+    <string name="password_field">Password</string>
+    <string name="registration">No account? Click here to register!</string>
+    <string name="Login_error_header">Authentication Error</string>
+    <string name="Login_error_description">Failed to login.Please try again</string>
+    <string name="Remaining_calorie">Remaining Calorie: </string>
+    <string name="Goal">Goal: </string>
+    <string name="Food">Food: </string>
+    <string name="Exercise">Exercise: </string>
+    <string name="muscle_build">Muscle Build | 28 Days | 2-3 days per week </string>
+    <string name="Yoga">Yoga | 5 Days Challenge | 100 secs each  </string>
+    <string name="Cardio">Cardio | 7 Days Jump Rope | Burns calorie   </string>
+
+    //Recipe Gluten-free
+    <string name="Apple">Apple Cinamon Cookies</string>
+    <string name="recipe1">366 cal</string>
+    <string name="Salad">Citrus Kale Salad</string>
+    <string name="recipe2">215 cal</string>
+    <string name="pad_thai">Spaghetti Squash Pad Thai</string>
+    <string name="recipe3">283 cal</string>
+    <string name="rolls">Steak Veggie Rolls</string>
+    <string name="recipe4">330 cal</string>
+    <string name="tacos">Smoky Tilapia Tacos</string>
+    <string name="recipe5">293 cal</string>
+    <string name="chicken">Blackened Chicken with Beans</string>
+    <string name="recipe6">379 cal</string>
+
+    //Recipe Low Carb
+    <string name="veganpizza">Vegan Portobello Pizzas</string>
+    <string name="carb1">165 cal | 15g carbs</string>
+    <string name="chickenandfeta">Kiwi, chiken and feta salad</string>
+    <string name="carb2">314 cal | 18g carbs</string>
+    <string name="pomodoropasta">Gnocchi with Pomodoro Pasta</string>
+    <string name="carb3">248 cal | 24g carbs</string>
+    <string name="avocadosteak">Portobello Steak with Avocadp</string>
+    <string name="carb4">360 cal | 12g carbs</string>
+    <string name="greencurry">Green Curry</string>
+    <string name="carb5">380 cal | 19g carbs</string>
+
+    //Example post content
+    <string name="title1">My Yoga Experience</string>
+    <string name="Author1">Author : Phang Wen Hui</string>
+    <string name="Content1">My Yoga Experience: Easy Ways to Make Yoga Part of Your Routine</string>
+
+    <string name="title2">TCMD</string>
+    <string name="Author2">Author : Ministry of Health Malaysia</string>
+    <string name="Content2">Traditional and Complementary Medical Division(TCMD) </string>
+    <string name="link2">https://medium.com/youalberta/my-yoga-experience-5e4a7e58caea</string>
+    <string name="remove_img_btn">Remove Image</string>
+    <string name="post_creation_title">Post Details</string>
+
+
+
+    <string name="title_field">Title</string>
+    <string name="desc_field">Description</string>
+
+
+</resources>
